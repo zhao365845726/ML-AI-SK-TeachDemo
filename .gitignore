@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/TeachDemo/.vs
+/TeachDemo/obj
